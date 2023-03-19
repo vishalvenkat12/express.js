@@ -41,6 +41,11 @@ main{
     max-width: 90%;
     margin:auto
 }
+.contact-form{
+    width: 20 rem;
+    max-width: 90%;
+    margin:auto
+}
 .form-control{
     margin: 1rem 0;
 }
